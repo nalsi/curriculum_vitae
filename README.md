@@ -1,0 +1,1 @@
+This is the project created by [Mark Szepieniec](https://github.com/mszep/pandoc_resume) to generate curriculum vitae from Markdown file. All the source files were shared for free. The files were modified by [Kai Li](http://kaili.us) to generate his curriculum vitae.
