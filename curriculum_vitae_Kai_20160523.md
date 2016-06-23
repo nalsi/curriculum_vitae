@@ -6,25 +6,23 @@ Kai Li
 
 > 4701 Pine St Apt D7, Philadelphia PA 19143
 
-> [islanderee@gmail.com](mailto:islanderee@gmail.com)
+> [kl696@drexel.edu](mailto:kl696@drexel.edu)
 
 > [http://kaili.us](http://kaili.us)
 
 -------------------
-
 
 RESEARCH INTERESTS
 ------------------
 
 Research Data Reuse, Metadata, Scholarly Communication, and Digital Humanities
 
-
 EDUCATION
 ------------------
 
 2015-
 
-:  *PhD, Information Science*; College of Computing and Informatics, Drexel University, Philadelphia PA
+:  *PhD, Information Studies*; College of Computing and Informatics, Drexel University, Philadelphia PA
 
 2012-2013
 
@@ -32,7 +30,7 @@ EDUCATION
 
 2003-2007
 
-:  *BA, History*; Beijing Normal University, Beijing, China
+:  *BA, History*; School of History, Beijing Normal University, Beijing, China
 
 RESEARCH EXPERIENCE
 ----------
@@ -54,15 +52,16 @@ PUBLICATIONS AND PAPERS
 
 **Refereed Journal Papers**
 
-  * Hu, X. J. & Li, K. (2010). Forty Years of MARC and Beyond. Journal of Library Science in China, 36(2), 83-89. *(Text in Chinese)*
+  * Hu, X. J. & Li, K. (2010). Forty Years of MARC and Beyond. Journal of Library Science in China, 36(2), 83-89. *(Text in Chinese)* [Link](http://www.jlis.cn/jtlscen/ch/reader/view_abstract.aspx?file_no=20100211&flag=1)
 
 **Refereed Conference Papers**
 
-  * Qin, J., & Li, K. (2013). How Portable Are the Metadata Standards for Scientific Data? A Proposal for a Metadata Infrastructure. Paper to be presented at International Conference on Dublin Core and Metadata Applications, Lisbon,Portugal, September 2-6, 2013. Retrieved: [http://dcevents.dublincore.org/IntConf/dc-2013/paper/view/162](http://dcevents.dublincore.org/IntConf/dc-2013/paper/view/162)
+  * Li, K., Greenberg, J., & Lin, X. (2016). Software Citation, Reuse and Metadata Considerations: An Exploratory Study Examining LAMMPS. In Proceedings of the Annual Meeting of the Association for Information Science and Technology. 
+  * Qin, J., & Li, K. (2013). How portable are the metadata standards for scientific data? a proposal for a metadata infrastructure. In Proceedings of the Internacional Conference on Dublin Core and Metadata Applications (pp. 25–34). [Link](http://dcpapers.dublincore.org/pubs/article/viewFile/3670/1893)
 
 **Non-Refereed Conference Presentations**
 
-  * Li, K. (2012, June 24). RDA in China. ALA 2012 Annual Conference, Anaheim, California. Invited by Association for Library Collections & Technical Services (ALCTS), American Library Association (ALA).
+  * Li, K. (2012, June 24). RDA in China. ALA 2012 Annual Conference, Anaheim, California. Invited by Association for Library Collections & Technical Services (ALCTS), American Library Association (ALA). ([Slides](http://www.slideshare.net/islanderlee/rda-in-china))
 
 TEACHING EXPERIENCE
 --------------------
@@ -76,7 +75,7 @@ GRANTS AND GIFTS
 --------------------
 
 2016-2017
-:  *US RDA Data Share Fellowship*; Research Data Alliance (Awarded$10,000 plus travel support)
+:  *RDA/US Data Share Fellowship*; Research Data Alliance (Awarded $10,000 plus travel support)
 
 PROFESSIONAL EXPERIENCE
 --------------------
@@ -84,7 +83,7 @@ PROFESSIONAL EXPERIENCE
 2014-2015
 :  *Market Research and Metadata Lead*; Coach360.net
 
-* Conducted sport market research and visualized the findings
+* Conducted sport market research
 * Developed sport taxonomy for sports coaching and learning materials
 
 2014-2015
@@ -107,7 +106,7 @@ SERVICE
 --------------------
 
 2016
-:  *Student volunteer*; iConference
+:  *Student volunteer*; iConference 2016
 
 * Assisted proofreading and editing conference proceeding
 
@@ -122,10 +121,3 @@ and Technical Services
 American Librarians Association
 
 * Developed CALA Academic Resource and Repository System
-
-SKILLS
---------------------
-
-**Skills**: R, Markdown
-
-**Language**: Chinese (native), English

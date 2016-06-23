@@ -6,25 +6,23 @@ Kai Li
 
 > 4701 Pine St Apt D7, Philadelphia PA 19143
 
-> [islanderee@gmail.com](mailto:islanderee@gmail.com)
+> [kl696@drexel.edu](mailto:kl696@drexel.edu)
 
 > [http://kaili.us](http://kaili.us)
 
 -------------------
-
 
 RESEARCH INTERESTS
 ------------------
 
 Research Data Reuse, Metadata, Scholarly Communication, and Digital Humanities
 
-
 EDUCATION
 ------------------
 
 2015-
 
-:  *PhD, Information Science*; College of Computing and Informatics, Drexel University, Philadelphia PA
+:  *PhD, Information Studies*; College of Computing and Informatics, Drexel University, Philadelphia PA
 
 2012-2013
 
@@ -32,7 +30,7 @@ EDUCATION
 
 2003-2007
 
-:  *BA, History*; Beijing Normal University, Beijing, China
+:  *BA, History*; School of History, Beijing Normal University, Beijing, China
 
 RESEARCH EXPERIENCE
 ----------
@@ -62,7 +60,8 @@ PUBLICATIONS AND PAPERS
 
 **Non-Refereed Conference Presentations**
 
-  * Li, K. (2012, June 24). RDA in China. ALA 2012 Annual Conference, Anaheim, California. Invited by Association for Library Collections & Technical Services (ALCTS), American Library Association (ALA).
+  * Li, K. (2012, June 24). RDA in China. ALA 2012 Annual Conference, Anaheim, California. Invited by Association for Library Collections & Technical Services (ALCTS), American Library Association (ALA). ([Slides](http://www.slideshare.net/islanderlee/rda-in-china))
+
 
 TEACHING EXPERIENCE
 --------------------
@@ -122,10 +121,3 @@ and Technical Services
 American Librarians Association
 
 * Developed CALA Academic Resource and Repository System
-
-SKILLS
---------------------
-
-**Skills**: R, Markdown
-
-**Language**: Chinese (native), English
