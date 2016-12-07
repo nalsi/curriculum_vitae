@@ -3,7 +3,7 @@
 ## html
 
 resume.html: curriculum_vitae_Kai_20160720.md
-	pandoc --standalone -H style.1.css \
+	pandoc --standalone -H style.css \
         --from markdown --to html \
         -o resume.html curriculum_vitae_Kai_20160720.md
 

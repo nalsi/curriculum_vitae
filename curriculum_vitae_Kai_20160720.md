@@ -60,6 +60,10 @@ PUBLICATIONS AND PAPERS
   * Li, K., Greenberg, J., & Lin, X. (2016). *Software Citation, Reuse and Metadata Considerations: An Exploratory Study Examining LAMMPS*. In Proceedings of the Annual Meeting of the Association for Information Science and Technology. 
   * Qin, J., & Li, K. (2013). *How portable are the metadata standards for scientific data? a proposal for a metadata infrastructure*. In Proceedings of the Internacional Conference on Dublin Core and Metadata Applications (pp. 25–34). [Link](http://dcpapers.dublincore.org/pubs/article/viewFile/3670/1893)
 
+**Posters**
+
+  * Li, K. (2016). *How much can data citation standards be used for scientific software? A crosswalk analysis of data citation standards for software citation needs*. Presented in Research Data Alliance 8th Plenary Meeting, Denver, Colorado, September 14-17, 2016.
+
 **Non-Refereed Conference Presentations**
 
   * Li, K. (2012, June 24). *RDA in China*. ALA Annual Conference 2012, Anaheim, California. [Link](http://www.slideshare.net/islanderlee/rda-in-china)
@@ -67,10 +71,11 @@ PUBLICATIONS AND PAPERS
 TEACHING EXPERIENCE
 --------------------
 
-2015
+2015-
 :  *Teaching Assistant*; Drexel University
 
 * CI101: Introduction to Computing and Informatics (Fall, 2015)
+* INFO683: Resources for Children (Summer, 2016)
 
 GRANTS AND GIFTS
 --------------------
@@ -80,6 +85,11 @@ GRANTS AND GIFTS
 
 PROFESSIONAL EXPERIENCE
 --------------------
+
+2016-2017
+: *Research Internship*; The Children's Hospital of Philadelphia
+
+* Develop scholar recommendation system based on MeSH subject terms, text-mining techniques, and social network
 
 2014-2015
 :  *Market Research and Metadata Lead*; Coach360.net
@@ -112,13 +122,11 @@ SERVICE
 * Assisted proofreading and editing conference proceeding
 
 2013-2014
-:  *Volunteer*; New Member Interest Group, Association for Library Collections
-and Technical Services
+:  *Volunteer*; New Member Interest Group, Association for Library Collections and Technical Services
 
 * Organized months webinars, and managed social network for the group
 
 2013-2014
-:  *Volunteer*; Chinese-American Librarians Repository Taskforce, Chinese
-American Librarians Association
+:  *Volunteer*; Chinese-American Librarians Repository Taskforce, Chinese American Librarians Association
 
 * Developed CALA Academic Resource and Repository System
