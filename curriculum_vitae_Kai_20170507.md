@@ -4,7 +4,7 @@ Kai Li
 
 -------------------
 
-> 4701 Pine St Apt D7, Philadelphia PA 19143
+> 311 N 33rd St Apt A5, Philadelphia PA 19104
 
 > [kl696@drexel.edu](mailto:kl696@drexel.edu)
 
@@ -62,6 +62,7 @@ PUBLICATIONS AND PAPERS
 
 **Posters**
 
+  * Li, K. (2017). *A metadata scheme of the software-data relationship: A proposal*. Presented in Research Data Alliance 9th Plenary Meeting, Barcelona, Spain, April 5-8, 2017.
   * Li, K., Ahumada, L., & Desai, B. (2017). *SchoRSys: a scholar recommendation system based on content-based filtering technique and PubMed metadata records*. Presented in Drexel University 9th Annual Research Symposium, Philadelphia, Pennsylvania, March 3, 2017.
   * Li, K. (2016). *How much can data citation standards be used for scientific software? A crosswalk analysis of data citation standards for software citation needs*. Presented in Research Data Alliance 8th Plenary Meeting, Denver, Colorado, September 14-17, 2016.
 
@@ -75,8 +76,8 @@ TEACHING EXPERIENCE
 2015-
 :  *Teaching Assistant*; Drexel University
 
-* CI101: Introduction to Computing and Informatics (Fall, 2015)
-* INFO683: Resources for Children (Summer, 2016)
+* CI101: Introduction to Computing and Informatics (2015)
+* INFO683: Resources for Children (2016)
 
 GRANTS AND GIFTS
 --------------------
@@ -91,6 +92,7 @@ PROFESSIONAL EXPERIENCE
 : *Research Internship*; The Children's Hospital of Philadelphia
 
 * Develop scholar recommendation system based on MeSH subject terms, text-mining techniques, and social network
+* Design and implement a Natural Language Processing system to analyze full-text clinician notes
 
 2014-2015
 :  *Market Research and Metadata Lead*; Coach360.net
@@ -118,3 +120,4 @@ REVIEWING
 --------------------
 
 - American Medical Informatics Association Annual Symposium: 2017 (Posters)
+- International Journal on Semantic Web and Information Systems: 2017

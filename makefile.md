@@ -2,10 +2,10 @@
 
 ## html
 
-resume.html: curriculum_vitae_Kai_20160720.md
+resume.html: curriculum_vitae_Kai_20170507.md
 	pandoc --standalone -H style.css \
         --from markdown --to html \
-        -o resume.html curriculum_vitae_Kai_20160720.md
+        -o resume.html curriculum_vitae_Kai_20170507.md
 
 ## PDF
 
