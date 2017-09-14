@@ -52,13 +52,14 @@ PUBLICATIONS AND PAPERS
 
 **Refereed Journal Papers**
 
- * Li, K., Yan, E., & Feng, Y. (2017). *How R is cited in research outputs? Structure, impacts, and citation standard*. Manuscript submitted for publication.
- * Hu, X. J. & Li, K. (2010). *Forty Years of MARC and Beyond*. Journal of Library Science in China, 36(2), 83-89. *(Text in Chinese)* [Link](http://www.jlis.cn/jtlscen/ch/reader/view_abstract.aspx?file_no=20100211&flag=1)
+ * Zhao, M., Yan, E., & **Li, K.** (in press). *Dataset mentions and citations: A content analysis of full-text publications*. Journal of the Association for Information Science and Technology.
+ * **Li, K.**, Yan, E., & Feng, Y. (in press). *How R is cited in research outputs? Structure, impacts, and citation standard*. Journal of Informetrics.
 
 **Refereed Conference Papers**
 
-  * Li, K., Greenberg, J., & Lin, X. (2016). *Software Citation, Reuse and Metadata Considerations: An Exploratory Study Examining LAMMPS*. In Proceedings of the Annual Meeting of the Association for Information Science and Technology. 
-  * Qin, J., & Li, K. (2013). *How portable are the metadata standards for scientific data? a proposal for a metadata infrastructure*. In Proceedings of the Internacional Conference on Dublin Core and Metadata Applications (pp. 25–34). [Link](http://dcpapers.dublincore.org/pubs/article/viewFile/3670/1893)
+  * FFeng, Y., **Li, K.**, & Agosto, D.E. (2017). Healthy users’ personal health information management from activity trackers: The perspective of gym-goers. In Proceedings of the 80th Annual Meeting of Association for Information Science & Technology (ASIS&T). Washington, DC, October 27 - November 1, 2017.
+  * **Li, K.**, Greenberg, J., & Lin, X. (2016). *Software Citation, Reuse and Metadata Considerations: An Exploratory Study Examining LAMMPS*. In Proceedings of the Annual Meeting of the Association for Information Science and Technology. 
+  * Qin, J., & **Li, K.** (2013). *How portable are the metadata standards for scientific data? a proposal for a metadata infrastructure*. In Proceedings of the Internacional Conference on Dublin Core and Metadata Applications (pp. 25–34). [Link](http://dcpapers.dublincore.org/pubs/article/viewFile/3670/1893)
 
 **Posters**
 
