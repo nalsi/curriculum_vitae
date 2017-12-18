@@ -52,8 +52,10 @@ PUBLICATIONS AND PAPERS
 
 **Refereed Journal Papers**
 
-  * **Li, K.**, Yan, E., & Feng, Y. (2017). How is R cited in research outputs? Structure, impacts, and citation standard. Journal of Informetrics, 11(4), 989–1002. 
-  * Zhao, M., Yan, E., & **Li, K.** (2017). Data set mentions and citations: A content analysis of full-text publications. Journal of the Association for Information Science and Technology, n/a-n/a. https://doi.org/10.1002/asi.23919
+  * **Li, K.** & Yan, E. (2018). Co-mention network of R packages: Scientific impact and clustering structure. *Journal of Informetrics*, 12(1), 87-100. 
+  * **Li, K.**, Rollins, J., & Yan, E. (2017). Web of Science use in published research and review papers 1997–2017: a selective, dynamic, cross-domain, content-based analysis. Scientometrics, 1–20. https://doi.org/10.1007/s11192-017-2622-5
+  * **Li, K.**, Yan, E., & Feng, Y. (2017). How is R cited in research outputs? Structure, impacts, and citation standard. *Journal of Informetrics*, 11(4), 989–1002. 
+  * Zhao, M., Yan, E., & **Li, K.** (2017). Data set mentions and citations: A content analysis of full-text publications. *Journal of the Association for Information Science and Technology*, n/a-n/a. https://doi.org/10.1002/asi.23919
 
 **Refereed Conference Papers**
 
@@ -63,6 +65,7 @@ PUBLICATIONS AND PAPERS
 
 **Posters**
 
+  * Li, K. & Xu, S. (2017). Measuring the impact of R packages. Presented in the 80th Annual Meeting of Association for Information Science & Technology (ASIS&T). Washington, DC, October 27 - November 1, 2017.
   * Li, K. (2017). *A metadata scheme of the software-data relationship: A proposal*. Presented in Research Data Alliance 9th Plenary Meeting, Barcelona, Spain, April 5-8, 2017.
   * Li, K., Ahumada, L., & Desai, B. (2017). *SchoRSys: a scholar recommendation system based on content-based filtering technique and PubMed metadata records*. Presented in Drexel University 9th Annual Research Symposium, Philadelphia, Pennsylvania, March 3, 2017.
   * Li, K. (2016). *How much can data citation standards be used for scientific software? A crosswalk analysis of data citation standards for software citation needs*. Presented in Research Data Alliance 8th Plenary Meeting, Denver, Colorado, September 14-17, 2016.
