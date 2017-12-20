@@ -52,10 +52,11 @@ PUBLICATIONS AND PAPERS
 
 **Refereed Journal Papers**
 
+  * Yan, E., & **Li, K.** (in press). Which domains do open access journals do best in? A five-year longitudinal study. Journal of the Association for Information Science and Technology.
+  * Zhao, M., Yan, E., & **Li, K.** (2018). Data set mentions and citations: A content analysis of full-text publications. Journal of the Association for Information Science and Technology, 69(1), 32–46. https://doi.org/10.1002/asi.23919
   * **Li, K.** & Yan, E. (2018). Co-mention network of R packages: Scientific impact and clustering structure. *Journal of Informetrics*, 12(1), 87-100. 
   * **Li, K.**, Rollins, J., & Yan, E. (2017). Web of Science use in published research and review papers 1997–2017: a selective, dynamic, cross-domain, content-based analysis. Scientometrics, 1–20. https://doi.org/10.1007/s11192-017-2622-5
   * **Li, K.**, Yan, E., & Feng, Y. (2017). How is R cited in research outputs? Structure, impacts, and citation standard. *Journal of Informetrics*, 11(4), 989–1002. 
-  * Zhao, M., Yan, E., & **Li, K.** (2017). Data set mentions and citations: A content analysis of full-text publications. *Journal of the Association for Information Science and Technology*, n/a-n/a. https://doi.org/10.1002/asi.23919
 
 **Refereed Conference Papers**
 
