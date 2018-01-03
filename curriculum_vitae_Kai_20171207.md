@@ -38,42 +38,36 @@ RESEARCH EXPERIENCE
 2015-
 :  *Graduate Research Assistant*; Drexel University
 
-* Develop visual ontology of scientific software reuse
-* Developed metadata quality evaluation framework for IMLS Continued Education Repository project
-
 2012-2014
 :  *Research Assistant*; Syracuse University
-
-* Conducted statistical analysis and create visualization based on user data of Zooniverse
-* Conducted studies on interoperability of scientific metadata standards
 
 PUBLICATIONS AND PAPERS
 --------------------
 
 **Refereed Journal Papers**
 
-  * Yan, E., & **Li, K.** (in press). Which domains do open access journals do best in? A five-year longitudinal study. Journal of the Association for Information Science and Technology.
-  * Zhao, M., Yan, E., & **Li, K.** (2018). Data set mentions and citations: A content analysis of full-text publications. Journal of the Association for Information Science and Technology, 69(1), 32–46. https://doi.org/10.1002/asi.23919
-  * **Li, K.** & Yan, E. (2018). Co-mention network of R packages: Scientific impact and clustering structure. *Journal of Informetrics*, 12(1), 87-100. 
-  * **Li, K.**, Rollins, J., & Yan, E. (2017). Web of Science use in published research and review papers 1997–2017: a selective, dynamic, cross-domain, content-based analysis. Scientometrics, 1–20. https://doi.org/10.1007/s11192-017-2622-5
-  * **Li, K.**, Yan, E., & Feng, Y. (2017). How is R cited in research outputs? Structure, impacts, and citation standard. *Journal of Informetrics*, 11(4), 989–1002. 
+  * Yan, E., & **Li, K.** (in press). Which domains do open access journals do best in? A five-year longitudinal study. *Journal of the Association for Information Science and Technology*.
+  * Zhao, M., Yan, E., & **Li, K.** (2018). Data set mentions and citations: A content analysis of full-text publications. *Journal of the Association for Information Science and Technology*, 69(1), 32–46. [https://doi.org/10.1002/asi.23919](https://doi.org/10.1002/asi.23919)
+  * **Li, K.** & Yan, E. (2018). Co-mention network of R packages: Scientific impact and clustering structure. *Journal of Informetrics*, 12(1), 87-100. [https://doi.org/10.1016/j.joi.2017.12.001](https://doi.org/10.1016/j.joi.2017.12.001)
+  * **Li, K.**, Rollins, J., & Yan, E. (2017). Web of Science use in published research and review papers 1997–2017: a selective, dynamic, cross-domain, content-based analysis. *Scientometrics*, 1–20. [https://doi.org/10.1007/s11192-017-2622-5](https://doi.org/10.1007/s11192-017-2622-5)
+  * **Li, K.**, Yan, E., & Feng, Y. (2017). How is R cited in research outputs? Structure, impacts, and citation standard. *Journal of Informetrics*, 11(4), 989–1002. [https://doi.org/10.1016/j.joi.2017.08.003](https://doi.org/10.1016/j.joi.2017.08.003)
 
 **Refereed Conference Papers**
 
-  * Feng, Y., **Li, K.**, & Agosto, D.E. (2017). Healthy users’ personal health information management from activity trackers: The perspective of gym-goers. In Proceedings of the 80th Annual Meeting of Association for Information Science & Technology (ASIS&T). Washington, DC, October 27 - November 1, 2017.
-  * **Li, K.**, Greenberg, J., & Lin, X. (2016). *Software Citation, Reuse and Metadata Considerations: An Exploratory Study Examining LAMMPS*. In Proceedings of the Annual Meeting of the Association for Information Science and Technology. 
-  * Qin, J., & **Li, K.** (2013). *How portable are the metadata standards for scientific data? a proposal for a metadata infrastructure*. In Proceedings of the Internacional Conference on Dublin Core and Metadata Applications (pp. 25–34). [Link](http://dcpapers.dublincore.org/pubs/article/viewFile/3670/1893)
+  * Feng, Y., **Li, K.**, & Agosto, D.E. (2017). Healthy users’ personal health information management from activity trackers: The perspective of gym-goers. In *Proceedings of the Annual Meeting of Association for Information Science & Technology* (54: pp. 71-81). [doi:10.1002/pra2.2017.14505401009](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2017.14505401009/full)
+  * **Li, K.**, Greenberg, J., & Lin, X. (2016). Software Citation, Reuse and Metadata Considerations: An Exploratory Study Examining LAMMPS*. In *Proceedings of the Annual Meeting of the Association for Information Science and Technology* (53: pp. 1-10). [doi:10.1002/pra2.2016.14505301072](https://dl.acm.org/citation.cfm?id=3017519)
+  * Qin, J., & **Li, K.** (2013). How portable are the metadata standards for scientific data? a proposal for a metadata infrastructure. In *Proceedings of the Internacional Conference on Dublin Core and Metadata Applications* (pp. 25–34). [Link](http://dcpapers.dublincore.org/pubs/article/viewFile/3670/1893)
 
 **Posters**
 
-  * Li, K. & Xu, S. (2017). Measuring the impact of R packages. Presented in the 80th Annual Meeting of Association for Information Science & Technology (ASIS&T). Washington, DC, October 27 - November 1, 2017.
-  * Li, K. (2017). *A metadata scheme of the software-data relationship: A proposal*. Presented in Research Data Alliance 9th Plenary Meeting, Barcelona, Spain, April 5-8, 2017.
-  * Li, K., Ahumada, L., & Desai, B. (2017). *SchoRSys: a scholar recommendation system based on content-based filtering technique and PubMed metadata records*. Presented in Drexel University 9th Annual Research Symposium, Philadelphia, Pennsylvania, March 3, 2017.
-  * Li, K. (2016). *How much can data citation standards be used for scientific software? A crosswalk analysis of data citation standards for software citation needs*. Presented in Research Data Alliance 8th Plenary Meeting, Denver, Colorado, September 14-17, 2016.
+  * **Li, K**. & Xu, S. (2017). Measuring the impact of R packages. In *Proceedings of the Annual Meeting of Association for Information Science & Technology* (54: pp. 739-741). [doi:10.1002/pra2.2017.14505401138](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2017.14505401138/full)
+  * **Li, K.** (2017). *A metadata scheme of the software-data relationship: A proposal*. Presented in Research Data Alliance 9th Plenary Meeting, Barcelona, Spain, April 5-8, 2017.
+  * **Li, K.**, Ahumada, L., & Desai, B. (2017). *SchoRSys: a scholar recommendation system based on content-based filtering technique and PubMed metadata records*. Presented in Drexel University 9th Annual Research Symposium, Philadelphia, Pennsylvania, March 3, 2017.
+  * **Li, K.** (2016). *How much can data citation standards be used for scientific software? A crosswalk analysis of data citation standards for software citation needs*. Presented in Research Data Alliance 8th Plenary Meeting, Denver, Colorado, September 14-17, 2016.
 
 **Non-Refereed Conference Presentations**
 
-  * Li, K. (2012, June 24). *RDA in China*. ALA Annual Conference 2012, Anaheim, California. [Link](http://www.slideshare.net/islanderlee/rda-in-china)
+  * **Li, K.** (2012, June 24). *RDA in China*. ALA Annual Conference 2012, Anaheim, California. [Link](http://www.slideshare.net/islanderlee/rda-in-china)
 
 TEACHING EXPERIENCE
 --------------------
@@ -124,5 +118,7 @@ PROFESSIONAL EXPERIENCE
 REVIEWING
 --------------------
 
-- American Medical Informatics Association Annual Symposium: 2017 (Posters)
-- International Journal on Semantic Web and Information Systems: 2017
+- American Medical Informatics Association Annual Symposium 2017
+- International Journal on Semantic Web and Information Systems
+- Journal of Informetrics
+- Library Hi-tech
