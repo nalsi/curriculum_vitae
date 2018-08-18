@@ -96,21 +96,10 @@ PROFESSIONAL EXPERIENCE
 * Design and implement a Natural Language Processing system to analyze full-text clinician notes
 
 2014-2015
-:  *Market Research and Metadata Lead*; Coach360.net
-
-* Conducted sport market research
-* Developed sport taxonomy for sports coaching and learning materials
-
-2014-2015
 :  *Cataloger*; Ingram Content Group
 
 * Performed original and copy cataloging, subject analysis, and shelflist based on national and local standards
 * Proofread cataloging records made by other catalogers, and trained new catalogers
-
-2012
-:  *Internship*; New York Heritage Project
-
-* Digitized special collections and created metadata records for Syracuse University College of Law Annual Bulletins Collection
 
 2007-2012
 :  *Cataloging Librarian*; Capital Library of China, Beijing, China
