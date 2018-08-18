@@ -46,8 +46,8 @@ PUBLICATIONS AND PAPERS
 
 **Refereed Journal Papers**
 
-  * Yan, E., & Li, K. (n.d.). Which domains do open-access journals do best in? A 5-year longitudinal study. *Journal of the Association for Information Science and Technology*, n/a-n/a. [https://doi.org/10.1002/asi.24002][3]
-  * **Li, K**., Rollins, J., & Yan, E. (2018). Web of Science use in published research and review papers 1997–2017: a selective, dynamic, cross-domain, content-based analysis. *Scientometrics*, *115*(1), 1–20. [https://doi.org/10.1007/s11192-017-2622-5][4]
+  * Yan, E., & **Li, K.** (2018). Which domains do open-access journals do best in? A 5-year longitudinal study. Journal of the Association for Information Science and Technology, 69(6), 844–856. [https://doi.org/10.1002/asi.24002][3]
+  * **Li, K.**, Rollins, J., & Yan, E. (2018). Web of Science use in published research and review papers 1997–2017: a selective, dynamic, cross-domain, content-based analysis. *Scientometrics*, *115*(1), 1–20. [https://doi.org/10.1007/s11192-017-2622-5][4]
   * Zhao, M., Yan, E., & **Li, K.** (2018). Data set mentions and citations: A content analysis of full-text publications. *Journal of the Association for Information Science and Technology*, 69(1), 32–46. [https://doi.org/10.1002/asi.23919][5]
   * **Li, K.** & Yan, E. (2018). Co-mention network of R packages: Scientific impact and clustering structure. *Journal of Informetrics*, 12(1), 87-100. [https://doi.org/10.1016/j.joi.2017.12.001][6]
   * **Li, K.**, Yan, E., & Feng, Y. (2017). How is R cited in research outputs? Structure, impacts, and citation standard. *Journal of Informetrics*, 11(4), 989–1002. [https://doi.org/10.1016/j.joi.2017.08.003][7]
@@ -127,7 +127,7 @@ REVIEWING
 
 [1]:	mailto:kl696@drexel.edu
 [2]:	http://kaili.us
-[3]:	http://onlinelibrary.wiley.com/doi/10.1002/asi.24002/full
+[3]:	https://doi.org/10.1002/asi.24002
 [4]:	https://doi.org/10.1007/s11192-017-2622-5
 [5]:	https://doi.org/10.1002/asi.23919
 [6]:	https://doi.org/10.1016/j.joi.2017.12.001
