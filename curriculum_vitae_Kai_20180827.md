@@ -15,7 +15,9 @@ Kai Li
 RESEARCH INTERESTS
 ---- 
 
-Research Data Reuse, Scientometrics, Metadata, and Scholarly Communication
+* Scientific impact of scientific software and research methods
+* New practices to publish and cite digital research objects (such as research datasets and scientific software)
+* Writing practice to report research methods in scientific publications
 
 EDUCATION
 ---- 
@@ -46,7 +48,8 @@ PUBLICATIONS AND PAPERS
 
 **Refereed Journal Papers**
 
-  * Yan, E., & **Li, K.** (2018). Which domains do open-access journals do best in? A 5-year longitudinal study. Journal of the Association for Information Science and Technology, 69(6), 844–856. [https://doi.org/10.1002/asi.24002][3]
+* Li, Y., Wu, C., Yan, E., & **Li, K.** (2018). Will open access increase journal CiteScores? An empirical investigation over multiple disciplines. *PLOS ONE*, 13(8), e0201885. https://doi.org/10.1371/journal.pone.0201885
+  * Yan, E., & **Li, K.** (2018). Which domains do open-access journals do best in? A 5-year longitudinal study. *Journal of the Association for Information Science and Technology*, 69(6), 844–856. [https://doi.org/10.1002/asi.24002][3]
   * **Li, K.**, Rollins, J., & Yan, E. (2018). Web of Science use in published research and review papers 1997–2017: a selective, dynamic, cross-domain, content-based analysis. *Scientometrics*, *115*(1), 1–20. [https://doi.org/10.1007/s11192-017-2622-5][4]
   * Zhao, M., Yan, E., & **Li, K.** (2018). Data set mentions and citations: A content analysis of full-text publications. *Journal of the Association for Information Science and Technology*, 69(1), 32–46. [https://doi.org/10.1002/asi.23919][5]
   * **Li, K.** & Yan, E. (2018). Co-mention network of R packages: Scientific impact and clustering structure. *Journal of Informetrics*, 12(1), 87-100. [https://doi.org/10.1016/j.joi.2017.12.001][6]
@@ -74,11 +77,11 @@ PUBLICATIONS AND PAPERS
 TEACHING EXPERIENCE
 ---- 
 
-2015-
-:  *Teaching Assistant*; Drexel University
+**Teaching Assistant**:
 
-* CI101: Introduction to Computing and Informatics (2015)
-* INFO683: Resources for Children (2016)
+* Information Visualization (INFO250), Winter 2018, Drexel University
+* Resources for Children (INFO683), Summer 2018, Drexel University
+* Introduction to Computing and Informatics (CI101), Fall 2015, Drexel University
 
 GRANTS AND GIFTS
 ---- 
@@ -98,7 +101,7 @@ PROFESSIONAL EXPERIENCE
 2014-2015
 :  *Cataloger*; Ingram Content Group
 
-* Performed original and copy cataloging, subject analysis, and shelflist based on national and local standards
+* Performed original and copy cataloging, subject analysis, and shelflist based on national and local cataloging standards
 * Proofread cataloging records made by other catalogers, and trained new catalogers
 
 2007-2012
@@ -106,13 +109,18 @@ PROFESSIONAL EXPERIENCE
 
 * Performed original and copy cataloging and subject analysis using national and local standards
 
-REVIEWING
+EDITORIAL SERVICE
 ---- 
 
-- American Medical Informatics Association Annual Symposium 2017
-- International Journal on Semantic Web and Information Systems
-- Journal of Informetrics
-- Library Hi-tech
+**Editorial**: 
+
+* Reviewer: *Journal of the Association for Information Science and Technology*, *Journal of Informetrics*, *Library Hi Tech*, *IEEE Access*, *iConference*, * AMIA Annual Symposium*
+
+MEMBERSHIPS
+---- 
+**Professional Associations**:
+
+* Association for Information Science and Technology (ASIS&T)
 
 [1]:	mailto:kl696@drexel.edu
 [2]:	http://kaili.us
