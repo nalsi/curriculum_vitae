@@ -28,8 +28,6 @@ EDUCATION
 
 2012-2013
 
-* Dissertation title: A quantitative examination of research methods and software in scientific publications
-
 :  *Master of Science, Library and Information Science*; School of Information Studies, Syracuse University, Syracuse NY
 
 2003-2007
@@ -52,7 +50,7 @@ PUBLICATIONS AND PAPERS
 
 * Yan, E., Chen, Z., & **Li, K.** (in press). Authors’ status and the perceived quality of their work: measuring citation sentiment change in Nobel papers. *Journal of the Association for Information Science and Technology*.
 * **Li, K.**, Greenberg, J., & Dunic, J. (In press). Data objects and documenting scientific processes: An analysis of data events in biodiversity data papers. *Journal of the Association for Information Science and Technology*.
-* **Li, K.**, Chen, P.-Y., & Yan, E. (2019). Challenges of measuring software impact through citations: An examination of the lme4 R package. *Journal of Informetrics*, 13(1), 449–461. [https://doi.org/https://doi.org/10.1016/j.joi][3]
+* **Li, K.**, Chen, P.-Y., & Yan, E. (2019). Challenges of measuring software impact through citations: An examination of the lme4 R package. *Journal of Informetrics*, 13(1), 449–461. [https://doi.org/10.1016/j.joi.2019.02.007][3]
 * **Li, K.**, & Yan, E. (2019). Are NIH-funded publications fulfilling the proposed research? An examination of concept-matchedness between NIH research grants and their supported publications. *Journal of Informetrics*, 13(1), 226–237. [https//doi.org/10.1016/j.joi.2019.01.001][4]
 * Li, Y., Wu, C., Yan, E., & **Li, K.** (2018). Will open access increase journal CiteScores? An empirical investigation over multiple disciplines. *PLOS ONE*, 13(8), e0201885. [https://doi.org/10.1371/journal.pone.0201885][5]
 * Yan, E., & **Li, K.** (2018). Which domains do open-access journals do best in? A 5-year longitudinal study. *Journal of the Association for Information Science and Technology*, 69(6), 844–856. [https://doi.org/10.1002/asi.24002][6]
@@ -146,7 +144,7 @@ MEMBERSHIPS
 
 [1]:	mailto:kl696@drexel.edu
 [2]:	http://kaili.us
-[3]:	https://doi.org/https://doi.org/10.1016/j.joi
+[3]:	https://doi.org/10.1016/j.joi.2019.02.007
 [4]:	https://doi.org/10.1016/j.joi.2019.01.001
 [5]:	https://doi.org/10.1371/journal.pone.0201885
 [6]:	https://doi.org/10.1002/asi.24002
