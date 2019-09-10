@@ -4,7 +4,7 @@ Kai Li
 
 ---- 
 
-> 3211 Powelton Ave Apt C, Philadelphia PA 19104
+> Office 1195, 3675 Market St., Philadelphia, PA, 19104
 
 > [kl696@drexel.edu][1]
 
@@ -15,16 +15,14 @@ Kai Li
 RESEARCH INTERESTS
 ---- 
 
-* Scientific writing practice to report research methods and software in research articles
-* Scientific impact of research method and software entities
-* New scientific genres to publish scientific datasets and software objects
+Kai Li is interested in scholarly communication, open science, and scientometrics, especially (1) how digital research objects, such as software and datasets, and research activities are represented in scientific publications through scientific writing practices and (2) how the existing scientific infrastructure can be improved to facilitate a better integration of scientific research and writing practices.
 
 EDUCATION
 ---- 
 
 2015-
 
-:  *PhD, Information Studies*; College of Computing and Informatics, Drexel University, Philadelphia PA
+:  *PhD, Information Studies*; College of Computing and Informatics, Drexel University, Philadelphia PA * (ABD; expected to graduate in June, 2020) *
 
 2012-2013
 
@@ -43,7 +41,7 @@ RESEARCH EXPERIENCE
 2012-2014
 :  *Research Assistant*; Syracuse University
 
-PUBLICATIONS AND PAPERS
+PUBLICATIONS
 ---- 
 
 **Refereed Journal Papers**
@@ -59,16 +57,19 @@ PUBLICATIONS AND PAPERS
 * **Li, K.** & Yan, E. (2018). Co-mention network of R packages: Scientific impact and clustering structure. *Journal of Informetrics*, 12(1), 87-100. [https://doi.org/10.1016/j.joi.2017.12.001][9]
 * **Li, K.**, Yan, E., & Feng, Y. (2017). How is R cited in research outputs? Structure, impacts, and citation standard. *Journal of Informetrics*, 11(4), 989–1002. [https://doi.org/10.1016/j.joi.2017.08.003][10]
 
-**Refereed Conference Papers**
+**Refereed Full Papers in Conference Proceedings**
 
-* Pascua, S., **Li, K.**, & Greenberg, J. (2019). Toward A Metadata Activity Matrix: Conceptualizing and Grounding the Research Life-cycle and Metadata Connections. In *Proceedings of the International Conference on Dublin Core and Metadata Applications*.
 * **Li, K.**, & Yan, E. (2019). Using a keyword extraction pipeline to understand concepts in future work sections of research papers. In 17th International Conference on Scientometrics and Informetrics.
-* Guerra, J., Wei, Q., **Kai, L.**, Ahumada, L., Winston, F., & Desai, B. R. (2018). Scosy: A Biomedical Collaboration Recommendation System. Presented at the 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Honolulu, HI, USA.
 * Feng, Y., **Li, K.**, & Agosto, D.E. (2017). Healthy users’ personal health information management from activity trackers: The perspective of gym-goers. In *Proceedings of the Annual Meeting of Association for Information Science & Technology* (54: pp. 71-81). [doi:10.1002/pra2.2017.14505401009][11]
 * **Li, K.**, Greenberg, J., & Lin, X. (2016). Software Citation, Reuse and Metadata Considerations: An Exploratory Study Examining LAMMPS. In *Proceedings of the Annual Meeting of the Association for Information Science and Technology* (53: pp. 1-10). [doi:10.1002/pra2.2016.14505301072][12]
 * Qin, J., & **Li, K.** (2013). How portable are the metadata standards for scientific data? a proposal for a metadata infrastructure. In *Proceedings of the International Conference on Dublin Core and Metadata Applications* (pp. 25–34). [Link][13]
 
-**Posters**
+**Refereed Short Papers in Conference Proceedings**
+
+* Pascua, S., **Li, K.**, & Greenberg, J. (2019). Toward A Metadata Activity Matrix: Conceptualizing and Grounding the Research Life-cycle and Metadata Connections. In *Proceedings of the International Conference on Dublin Core and Metadata Applications*.
+* Guerra, J., Wei, Q., **Kai, L.**, Ahumada, L., Winston, F., & Desai, B. R. (2018). Scosy: A Biomedical Collaboration Recommendation System. Presented at the 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Honolulu, HI, USA.
+
+** Refereed Conference Posters**
 
 * **Li, K.**, Chen, P.-Y., Fang, Z. (2019). Disciplinarity of Software Papers: A Preliminary Analysis. In *Proceedings of the Annual Meeting of Association for Information Science & Technology* (56). 
 * **Li, K.**, & Chen, P.-Y. (2019). A preliminary scientometric analysis of the Cross-Strait scientific collaboration. In 17th International Conference on Scientometrics and Informetrics.
@@ -87,7 +88,7 @@ PUBLICATIONS AND PAPERS
 
 * **Li, K.** (2012, June 24). *RDA in China*. ALA Annual Conference 2012, Anaheim, California. [Link][16]
 
-TEACHING EXPERIENCE
+TEACHING
 ---- 
 
 **Instructor**:
@@ -101,11 +102,11 @@ TEACHING EXPERIENCE
 * Resources for Children (INFO683), Summer 2018, Drexel University
 * Introduction to Computing and Informatics (CI101), Fall 2015, Drexel University
 
-GRANTS AND GIFTS
+GRANTS AND FELLOWSHIPS
 ---- 
 
 2019
-:  * International Conference on  Scientometrics & Informetrics Student Travel Award*; The International Society for Informetrics and Scientometrics (Awarded $1,500 for travel support)
+:  *International Conference on  Scientometrics & Informetrics Student Travel Award*; The International Society for Informetrics and Scientometrics (Awarded $1,500 for travel support)
 
 2019
 :  *LIS Education and Data Science for the National Digital Platform (LEADS-4-NDP) Fellowship*; Drexel University (Awarded $5,000 plus travel support)
@@ -139,11 +140,11 @@ EDITORIAL SERVICE
 **Reviewer**: 
 
 * *Journal of the Association for Information Science and Technology* 
-	* *Journal of Informetrics* 
-	* *Scientometrics*
-	* *Library Hi Tech*
-	* *iConference* (2019)
-	* *AMIA Annual Symposium* (2017-)
+* *Journal of Informetrics* 	
+* *Scientometrics*
+* *Library Hi Tech*
+* *iConference* (2019)
+* *AMIA Annual Symposium* (2017-)
 
 MEMBERSHIPS
 ---- 
