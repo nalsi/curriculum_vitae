@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.29)  27 AUG 2023 20:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.29)  27 AUG 2023 20:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -191,7 +191,28 @@ Overfull \hbox (23.95164pt too wide) in paragraph at lines 119--120
 \OT1/cmr/m/n/10 anal-y-sis. \OT1/cmr/m/it/10 Sci-en-to-met-rics\OT1/cmr/m/n/10 , 115(1), 1-20. []$\OT1/cmtt/m/n/10 https : / / doi . org / 10 . 1007 / s11192-[]017-[]2622-[]5$[] 
  []
 
-[3] [4]
+[3]
+./cv.tex:153: Misplaced alignment tab character &.
+l.153 [P9] \underline{Li, K.}, Zheng, X., &
+                                            Ni, C. (2023). Gender disparitie...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./cv.tex:153: Misplaced alignment tab character &.
+l.153 ...tional Conference of Science of Science &
+                                                   Innovation, Evanston, IL,...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[4]
 Overfull \hbox (1.34554pt too wide) in paragraph at lines 196--197
 []\OT1/cmr/bx/n/10 Information Vi-su-al-iza-tion in the Con-text of Dig-i-tal Hu-man-i-ties \OT1/cmr/m/n/10 (Mas-
  []
@@ -211,9 +232,9 @@ Here is how much of TeX's memory you used:
  20475 multiletter control sequences out of 15000+600000
  534453 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,8n,29p,425b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,29p,425b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on /Users/likai/Documents/GitHub/curriculum_vitae/.texpadtmp/cv.pdf (6 pages, 127275 bytes).
+Output written on /Users/likai/Documents/GitHub/curriculum_vitae/.texpadtmp/cv.pdf (6 pages, 127425 bytes).
 PDF statistics:
  107 PDF objects out of 1000 (max. 8388607)
  91 compressed objects within 1 object stream
